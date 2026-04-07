@@ -6,6 +6,7 @@ This project detects stress using behavioral factors by modeling their interacti
 This project detects stress using behavioral factors such as sleep, study pressure, and financial conditions by modeling their interactions.
 
 A Graph Attention Network (GAT) is used to understand how these factors influence each other, and SHAP is used to explain why a person is stressed.
+and also compared Random froest model and GATV2 model to show accuracy
 
 ---
 
